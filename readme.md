@@ -15,10 +15,6 @@ sh.SendKeys("abcde")
 
 1. TypeScriptで[`WScriptエミュレーション`](https://github.com/durs/node-activex#wscript)環境を利用しないパターン
 
-## 準備
-
-* 今回利用したライブラリ(TypeScriptも利用しています)
-
 
 ## 1. javascriptで、JScript(WSH)互換スクリプトを目指すパターン
  　
