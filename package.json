@@ -1,0 +1,24 @@
+{
+  "name": "wsh",
+  "version": "1.0.0",
+  "description": "test sendkeys on node.js",
+  "main": "sendkey.js",
+  "scripts": {
+    "dev-ts": "ts-node sendkeys.ts",
+    "dev-js": "nodewscript sendkeys.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/windows-script-host": "^5.8.3",
+    "clipboardy": "^2.3.0",
+    "sleep": "^6.3.0",
+    "ts-node": "^10.1.0",
+    "winax": "^3.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.1",
+    "typescript": "^4.3.5"
+  }
+}
