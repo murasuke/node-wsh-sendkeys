@@ -70,7 +70,7 @@ WScript.Echo('終了');
 
 ## 2. TypeScriptで`WScriptエミュレーション`環境を利用しないパターン
  　～～**ts-node上で実行(WScriptオブジェクト未使用)**～～
-
+コヒペのため、clipboardyを利用しています。他いくつか試しましたが、顔文字まで正しく処理できたのはこれだけでした。
 package.json(抜粋)
  ```json
  {
